@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @franmarinho
-- 👀 I’m interested in pyhton, A.I Algorithms, 4.0 Industry and ESG
+- 👀 I’m interested in pyhton, A.I Algorithms, Energy Market, 4.0 Industry and ESG
 - 🌱 I’m currently learning Python, Computer Vision Algorithms and Data Science Best Practices
 - 💞️ I’m looking to collaborate on Python Projects related to Data Science or Computer Vision
 - 📫 How to reach? Send an email to fran.marinho@prontocombustiveis.com.br
